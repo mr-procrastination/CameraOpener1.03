@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraOpener1.03</string>
+    <string name="device_admin_enabled">devie_enabled</string>
+    <string name="device_admin_disabled">device_disabled</string>
+</resources>
